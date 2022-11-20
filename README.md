@@ -36,7 +36,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/KRILLE123">
