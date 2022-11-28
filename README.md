@@ -4,10 +4,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### &nbsp;About Me
-
-&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 &nbsp;I'm currently studying Computer Science at the Lund Institute of Technology.\
-&nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 
 ### &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
